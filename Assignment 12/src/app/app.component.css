@@ -1,0 +1,23 @@
+.container{
+    background-color:rgb(186, 186, 186);
+    text-align: center;
+    height:6em;
+    width:auto;
+}
+h6{
+    text-align: left;
+}
+
+.label{
+    font-size: xx-small;
+}
+.PersonalInfo{
+    padding: 2em 30px;
+}
+
+.BugInfo{
+    padding: 0 30px;
+}
+.space{
+    height: 2em;
+}
